@@ -1,0 +1,41 @@
+body{
+    margin: 160px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+small{
+    color: black;
+    padding-right: 15px;
+}
+span{
+    padding-right: 15px;
+}
+img{
+    height: 100px;
+    width: 100px;
+    float: right;
+}
+h2{
+    padding: 0;
+    margin-bottom: 0;
+}
+hr{
+    margin: 0;
+    border: none;
+    height: 4px;
+    background: linear-gradient(to right, rgb(177, 217, 55), white );
+}
+.maroon-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    background-color: maroon;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 5px;
+  }
+  
+  .circle-number {
+    color: #fff;
+    font-size: 20px;
+  }
